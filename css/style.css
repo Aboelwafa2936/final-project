@@ -298,7 +298,7 @@ body{
     .section .section-2 .items{
         display: flex !important;
         flex-wrap: wrap;
-        gap: 0 !important;
+        gap: 10 !important;
     }
     .banner-2-right .streamer ul li:nth-child(4){
         width: 70%;
